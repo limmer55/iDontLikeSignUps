@@ -1,0 +1,15 @@
+{
+  "domains": {
+    "racereplay.net": {
+      "reports": [
+        {
+          "url": "https://racereplay.net/",
+          "siteName": "racereplay.net",
+          "reason": "qwd",
+          "approvedAt": "2025-06-10T20:37:29Z"
+        }
+      ]
+    }
+  },
+  "lastUpdated": "2025-06-10T20:39:46.262466Z"
+}

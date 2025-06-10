@@ -1,5 +1,15 @@
 {
   "domains": {
+    "www.canva.com": {
+      "reports": [
+        {
+          "url": "https://www.canva.com/create/icons/",
+          "siteName": "Free Icon Maker & Generator - Icon Creator Online | Canva",
+          "reason": "sucks\n",
+          "approvedAt": "2025-06-10T20:48:53Z"
+        }
+      ]
+    },
     "racereplay.net": {
       "reports": [
         {
@@ -11,5 +21,5 @@
       ]
     }
   },
-  "lastUpdated": "2025-06-10T20:39:46.262466Z"
+  "lastUpdated": "2025-06-10T20:51:27.991172Z"
 }
